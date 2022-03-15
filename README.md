@@ -15,4 +15,4 @@ In the project the concept inheritance was used
 
 
 ## Future Enhancements
-The GUI needs to improve to make the system more appealing. 
+- The GUI needs to improve to make the system more appealing. 
