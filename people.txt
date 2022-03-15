@@ -1,0 +1,7 @@
+1,0122233,Lee Ching Ching,Citizen,21/1/1995,Unvaccinated
+2,22334411,Kyle Lowry Jr,Non-Citizen,22/3/1992,Unvaccinated
+3,232366,LeBron James,Non-Citizen,31/12/1990,Unvaccinated
+4,23456789,Michael Phelps,Non-Citizen,23/4/1995,Unvaccinated
+5,3030303030,Stephen Curry,Non-Citizen,30/3/1993,Unvaccinated
+6,0123456,Lee,Citizen,1/2/1993,Unvaccinated
+7,24242424,Kobe,Non-Citizen,24/8/1985,Unvaccinated

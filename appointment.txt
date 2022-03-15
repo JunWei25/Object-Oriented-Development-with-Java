@@ -1,0 +1,4 @@
+1,0122233,Lee Ching Ching,10/1/2022,Kuala Lumpur,Johnson&Johnson,0312312312
+2,22334411,Kyle Lowry Jr,11/1/2022,Negeri Sembilan,Johnson&Johnson,013123123123
+3,232366,LeBron James,6/2/2022,Selangor,Pfizer,066232366
+4,3030303030,Stephen Curry,5/1/2022,Negeri Sembilan,AstraZeneca,0303030303
