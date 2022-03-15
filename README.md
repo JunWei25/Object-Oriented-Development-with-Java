@@ -14,5 +14,5 @@ In the project the concept inheritance was used
 ### Abstraction 
 
 
-### Future Enhancements
+## Future Enhancements
 The GUI needs to improve to make the system more appealing. 
