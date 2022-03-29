@@ -9,7 +9,9 @@ Class Diagram
 ![image](https://user-images.githubusercontent.com/90762158/160528975-2e72b1cf-4c58-4dab-94f4-ed27bf863017.png)
 
 ## Sample VIMS GUI
+
 Login
+
 ![image](https://user-images.githubusercontent.com/90762158/160529075-d6923515-76bc-4a39-a73e-3706560c335b.png)
 
 Main Menu (Committee)
