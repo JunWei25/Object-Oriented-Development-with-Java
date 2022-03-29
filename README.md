@@ -24,4 +24,4 @@ Update People
 ## Future Enhancements
 - The GUI needs to improve to make the system more appealing. 
 
-## For the full doucmentation of this project do request by email: junwei_2509@hotmail.com
+### For the full doucmentation of this project do request by email: junwei_2509@hotmail.com
