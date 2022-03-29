@@ -17,6 +17,8 @@ Login
 Main Menu (Committee)
 ![image](https://user-images.githubusercontent.com/90762158/160529110-5cfa0b46-592a-48dd-9cad-07f044b0c656.png)
 
+Update People
+![image](https://user-images.githubusercontent.com/90762158/160529355-6893edbe-7d6b-4530-9a73-9235db02497c.png)
 
 ## Future Enhancements
 - The GUI needs to improve to make the system more appealing. 
