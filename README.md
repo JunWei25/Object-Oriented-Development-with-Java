@@ -1,6 +1,5 @@
 # Object Oriented Programming with Java
-
-## Designed a simple vaccine management system with my peer using the 4 pillars of OOP and has GUI for users to interact with the system 
+Designed a simple vaccine management system with my peer using the 4 pillars of OOP and has GUI for users to interact with the system 
 
 ## UML Diagrams were drawn to plan the structure of VIMS
 Overview Use Case Diagram
@@ -19,3 +18,5 @@ Main Menu (Committee)
 
 ## Future Enhancements
 - The GUI needs to improve to make the system more appealing. 
+
+## For the full doucmentation of this project do request by email: junwei_2509@hotmail.com
